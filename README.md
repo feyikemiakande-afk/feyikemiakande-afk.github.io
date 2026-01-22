@@ -23,7 +23,7 @@ Built an Excel dashboard to analyse global billionaire wealth and uncover patter
 ### 🐍 Exploratory Data Analysis with Python
 Performed exploratory data analysis on a real-world dataset using Python. The project involved handling missing values, summarising key variables, identifying patterns across categories, and creating visualisations to communicate insights that support data-driven decision-making.
 
-**Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn
+**Tools:** Python, Pandas, NumPy
 
 ---
 
@@ -39,7 +39,7 @@ Analysed an Amazon sales dataset using Power BI to evaluate key KPIs such as tot
 ### Data Visualisation
 - Power BI  
 - Excel (Charts, Dashboards)  
-- Matplotlib, Seaborn  
+- Matplotlib
 
 ### Data Analysis
 - Python (Pandas, NumPy)  
@@ -54,14 +54,16 @@ Analysed an Amazon sales dataset using Power BI to evaluate key KPIs such as tot
 ### Tools & Platforms
 - Power BI Desktop  
 - GitHub  
-- Jupyter Notebook  
+- Pyhton
 
 ---
 
 ## 🌐 Portfolio Website
 This repository is published using **GitHub Pages** and can be viewed live at:  
-👉 `https://your-username.github.io`  
-*(Replace with your actual GitHub Pages link.)*
+👉 https://github.com/feyikemiakande-afk/excel_billionaire_dashboard
+   https://github.com/feyikemiakande-afk/Amazon_sales_Analysis-
+   
+
 
 ---
 
