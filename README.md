@@ -1,60 +1,79 @@
-# Oluwafeyikemi 
+# Oluwafeyikemi – Data & Business Analytics Portfolio
 
+## About This Portfolio
+This portfolio showcases projects that demonstrate my ability to analyse data, uncover insights, and support data-driven decision-making using a range of analytics tools. The focus is on combining analytical thinking with clear visualisation and business context.
 
-## About This Portfolio Template
+Key areas demonstrated include:
+- Data analysis and exploratory analysis
+- Interactive dashboards and data storytelling
+- KPI definition and performance monitoring
+- Translating complex datasets into actionable insights
 
-This portfolio is designed to demonstrate skills in:
-- Data visualization and storytelling
-- Data modeling and analysis
-- Creating interactive, professional dashboards
-- Transforming complex data into actionable insights
+---
 
 ## 🚀 Projects
 
-This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
+### 📊 Global Billionaires Analysis (Excel)
+Built an Excel dashboard to analyse global billionaire wealth and uncover patterns across countries, industries, and demographics. The project focuses on data cleaning, aggregation, and visual storytelling to highlight wealth distribution and concentration trends.
 
-### Project Title One
-*A brief description of your project, the tools used, and the key insights derived.*
+**Tools:** Excel, Pivot Tables, Charts
 
-### Project Title Two
-*A brief description of your project, the tools used, and the key insights derived.*
+---
 
-### Project Title Three
-*A brief description of your project, the tools used, and the key insights derived.*
+### 🐍 Exploratory Data Analysis with Python
+Performed exploratory data analysis on a real-world dataset using Python. The project involved handling missing values, summarising key variables, identifying patterns across categories, and creating visualisations to communicate insights that support data-driven decision-making.
 
+**Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn
+
+---
+
+### 📈 Amazon Sales Performance Analysis (Power BI)
+Analysed an Amazon sales dataset using Power BI to evaluate key KPIs such as total sales, sales quantity, and average order value. Developed an interactive dashboard to identify sales trends and performance patterns, supporting data-driven decisions related to inventory planning, sales performance monitoring, and revenue optimisation.
+
+**Tools:** Power BI, DAX, Data Modelling
+
+---
 
 ## 🛠️ Skills
 
-Update the `index.html` file to reflect your personal technical skillset. The template is organized into key categories:
+### Data Visualisation
+- Power BI  
+- Excel (Charts, Dashboards)  
+- Matplotlib, Seaborn  
 
-- **Data Visualization**: Power BI, Tableau, Matplotlib, etc.
-- **Data Analysis**: SQL, Python (Pandas), R, Excel, etc.
-- **Data Modeling**: Power Query, DAX, Star Schema Design, etc.
-- **Tools**: List any other relevant tools like Power BI Service, specific cloud platforms, etc.
+### Data Analysis
+- Python (Pandas, NumPy)  
+- SQL (basic querying and aggregation)  
+- Excel  
 
-## 💡 How to Use This Template
+### Data Modelling
+- Data cleaning and transformation  
+- Basic star schema concepts  
+- DAX (basic measures)  
 
-Creating your own portfolio from this template is a simple, four-step process.
+### Tools & Platforms
+- Power BI Desktop  
+- GitHub  
+- Jupyter Notebook  
 
-### 1. Create a New Repository from this Template
-Click the green **"Use this template"** button at the top of this repository page, then select **"Create a new repository"**.
+---
 
-### 2. Name Your Repository for GitHub Pages
-This is the most important step. To turn your portfolio into a live website, you **must** name your new repository in the following format:
-`your-username.github.io`
-*(Replace `your-username` with your actual GitHub username.)*
+## 🌐 Portfolio Website
+This repository is published using **GitHub Pages** and can be viewed live at:  
+👉 `https://your-username.github.io`  
+*(Replace with your actual GitHub Pages link.)*
 
-### 3. Customize Your Portfolio
-Open the `index.html` file and begin personalizing it. The file contains helpful `<!--💡UPDATE: ... -->` comments to guide you on where to change:
-- Your name and title
-- Social media links
-- The "About Me" section
-- Your project titles, descriptions, and links
-- Your list of skills
+---
 
-### 4. Add Your Files
-- Upload your profile photo and project preview images to the `assets/images/` folder.
-- Upload your CV (e.g., in PDF format) to the `assets/` folder.
-- Create your favicon and add it to the root folder.
+## 📄 CV
+My CV is available in this repository and can be downloaded directly from the portfolio website.
 
-Once you commit your changes, your new portfolio website will be live at `https://your-username.github.io` within a few minutes!
+---
+
+## 📬 Contact
+- **LinkedIn:** *(add your LinkedIn URL)*  
+- **Email:** *(optional)*  
+
+---
+
+Thank you for taking the time to view my portfolio.
