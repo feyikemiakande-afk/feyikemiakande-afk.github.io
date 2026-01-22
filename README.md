@@ -61,6 +61,7 @@ Analysed an Amazon sales dataset using Power BI to evaluate key KPIs such as tot
 ## 🌐 Portfolio Website
 This repository is published using **GitHub Pages** and can be viewed live at:  
 👉 https://github.com/feyikemiakande-afk/excel_billionaire_dashboard
+
    https://github.com/feyikemiakande-afk/Amazon_sales_Analysis-
    
 
@@ -73,8 +74,8 @@ My CV is available in this repository and can be downloaded directly from the po
 ---
 
 ## 📬 Contact
-- **LinkedIn:** *(add your LinkedIn URL)*  
-- **Email:** *(optional)*  
+- **LinkedIn:** *https://www.linkedin.com/feed/*  
+- **Email:** *feyikemiakande@gmail.com*  
 
 ---
 
