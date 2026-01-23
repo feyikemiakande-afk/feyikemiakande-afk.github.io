@@ -72,11 +72,7 @@ The analysis supports business decisions related to inventory planning, sales pe
 
 ## 🌐 Portfolio Website
 This repository is published using **GitHub Pages** and can be viewed live at:  
-👉 https://github.com/feyikemiakande-afk/excel_billionaire_dashboard
-
-   https://github.com/feyikemiakande-afk/Amazon_sales_Analysis-
-   
-
+👉https://feyikemiakande-afk.github.io/
 
 ---
 
