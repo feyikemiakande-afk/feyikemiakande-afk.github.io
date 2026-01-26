@@ -19,6 +19,13 @@ Key areas demonstrated include:
 ### 📊 Global Billionaires Analysis (Excel)
 Built an Excel dashboard to analyse global billionaire wealth and uncover patterns across countries, industries, and demographics. The project focuses on data cleaning, aggregation, and visual storytelling to highlight wealth distribution and concentration trends. 
 
+**Key Findings:**
+- Wealth is heavily concentrated in a small number of countries and industries
+- Technology and finance consistently dominate global billionaire rankings
+
+**Why It Matters:**
+These insights help illustrate global wealth inequality and identify industries that drive high net-worth growth, supporting economic analysis and strategic investment discussions.
+
 **Business Focus:** Trend identification, segmentation analysis, insight communication  
 **Tools:** Excel, Pivot Tables, Charts
 
@@ -26,14 +33,27 @@ Built an Excel dashboard to analyse global billionaire wealth and uncover patter
 ### 🐍 Exploratory Data Analysis with Python
 Conducted exploratory data analysis on a real world dataset to uncover patterns, trends, and relationships across key variables using python. The analysis involved imporatation of a raw uncleaned data, cleaning the raw data, handling missing values, summarising metrics, and grouping data to support structured investigation.
 
+**Key Findings:**
+- Certain variables showed strong relationships, indicating potential drivers of outcomes
+- Data quality issues significantly influenced early analytical result
+
+**Why It Matters:**
+The analysis demonstrates how proper data preparation and exploration are critical for reliable insights and informed decision making before advanced analysis or modelling.
+
 **Business Focus:** Pattern discovery, data preparation, analytical reasoning  
 **Tools:** Python, Pandas, NumPy, Matplotlib
 
 ---
 ### 📈 Amazon Sales Performance Analysis (Power BI)
 
-Analysed an Amazon sales dataset to evaluate business performance using KPIs such as total sales, sales quantity, and average order value.  Developed an interactive dashboard to identify sales trends and performance patterns, supporting data-driven decisions related to inventory planning, sales performance monitoring, and revenue optimisation.
-The analysis supports business decisions related to inventory planning, sales performance monitoring, revenue optimisation, and investigation of order cancellations.
+Analysed an Amazon sales dataset to evaluate business performance using KPIs such as total sales, sales quantity, and average order value. Developed an interactive dashboard to identify sales trends and performance patterns, supporting data-driven decisions related to inventory planning, sales performance monitoring, and revenue optimisation.
+
+**Key Findings:**
+- A small number of products and regions generated a disproportionate share of total revenue
+- Sales exhibited clear seasonal trends with identifiable peak periods
+
+**Why It Matters:**
+These insights support inventory planning, sales performance monitoring, revenue optimisation, and investigation of order cancellations, enabling more data-driven commercial decisions.
 
 **Business Focus:** KPI analysis, performance monitoring
 **Tools:** Power BI, DAX, Data Modelling
