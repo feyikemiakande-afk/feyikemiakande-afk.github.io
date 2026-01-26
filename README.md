@@ -9,7 +9,8 @@ Key areas demonstrated include:
 - Business focused data analysis and exploratory analysis  
 - KPI definition and performance monitoring  
 - Interactive dashboards for decision support  
-- Translating analytical findings into business insights  
+- Translating analytical findings into business insights
+- Data cleaning, aggregation, and preparation
 
 
 ---
@@ -26,7 +27,7 @@ Built an Excel dashboard to analyse global billionaire wealth and uncover patter
 **Why It Matters:**
 These insights help illustrate global wealth inequality and identify industries that drive high net-worth growth, supporting economic analysis and strategic investment discussions.
 
-**Business Focus:** Trend identification, segmentation analysis, insight communication  
+**Focus:** Trend identification, segmentation analysis, insight communication  
 **Tools:** Excel, Pivot Tables, Charts
 
 ---
@@ -40,7 +41,7 @@ Conducted exploratory data analysis on a real world dataset to uncover patterns,
 **Why It Matters:**
 The analysis demonstrates how proper data preparation and exploration are critical for reliable insights and informed decision making before advanced analysis or modelling.
 
-**Business Focus:** Pattern discovery, data preparation, analytical reasoning  
+**Focus:** Pattern discovery, data preparation and cleaning, analytical reasoning  
 **Tools:** Python, Pandas, NumPy, Matplotlib
 
 ---
@@ -55,7 +56,7 @@ Analysed an Amazon sales dataset to evaluate business performance using KPIs suc
 **Why It Matters:**
 These insights support inventory planning, sales performance monitoring, revenue optimisation, and investigation of order cancellations, enabling more data-driven commercial decisions.
 
-**Business Focus:** KPI analysis, performance monitoring
+**Focus:** KPI analysis, performance analysis
 **Tools:** Power BI, DAX, Data Modelling
 
 ---
@@ -66,7 +67,7 @@ These insights support inventory planning, sales performance monitoring, revenue
 - Business problem framing  
 - KPI definition and performance analysis  
 - Trend analysis and insight generation  
-- Stakeholderf ocused reporting 
+- Stakeholders focused reporting 
 
 ### Data Visualisation
 - Power BI  
@@ -85,8 +86,8 @@ These insights support inventory planning, sales performance monitoring, revenue
 
 ### Tools & Platforms
 - Power BI Desktop  
-- GitHub  
 - Pyhton
+- Excel
 
 ---
 
