@@ -31,7 +31,7 @@ These insights help illustrate global wealth inequality and identify industries 
 **Tools:** Excel, Pivot Tables, Charts
 
 ---
-### 🐍 Exploratory Data Analysis with Python
+### 📊 Exploratory Data Analysis with Python
 Conducted exploratory data analysis on a real world dataset to uncover patterns, trends, and relationships across key variables using python. The analysis involved imporatation of a raw uncleaned data, cleaning the raw data, handling missing values, summarising metrics, and grouping data to support structured investigation.
 
 **Key Findings:**
@@ -61,7 +61,7 @@ These insights support inventory planning, sales performance monitoring, revenue
 
 
 --- 
-**Student Performance Analysis (SQL, MySQL)**
+## 🗄️ Student Performance Analysis (SQL, MySQL)**
 Analysed a 1,000+ record student performance dataset to explore academic outcomes across math, reading, and writing scores. The analysis focuses on understanding overall performance, comparing outcomes across student groups, and examining factors associated with differences in results.
 
 **Key Findings**
