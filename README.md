@@ -61,7 +61,7 @@ These insights support inventory planning, sales performance monitoring, revenue
 
 
 --- 
-## 🗄️ Student Performance Analysis (SQL, MySQL)**
+## 🗄️ Student Performance Analysis (SQL, MySQL)
 Analysed a 1,000+ record student performance dataset to explore academic outcomes across math, reading, and writing scores. The analysis focuses on understanding overall performance, comparing outcomes across student groups, and examining factors associated with differences in results.
 
 **Key Findings**
