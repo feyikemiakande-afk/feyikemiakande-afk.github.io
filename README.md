@@ -59,6 +59,24 @@ These insights support inventory planning, sales performance monitoring, revenue
 **Focus:** KPI analysis, performance analysis
 **Tools:** Power BI, DAX, Data Modelling
 
+
+--- 
+**Student Performance Analysis (SQL, MySQL)**
+Analysed a 1,000+ record student performance dataset to explore academic outcomes across math, reading, and writing scores. The analysis focuses on understanding overall performance, comparing outcomes across student groups, and examining factors associated with differences in results.
+
+**Key Findings**
+- Average performance differs across subjects, indicating uneven strengths in math, reading, and writing.
+- Student performance varies across demographic and socio-economic factors such as gender, parental education level, lunch type, and race/ethnicity.
+- Students who completed a test preparation course achieved higher average total scores than those who did not.
+- High performance across all three subjects is relatively uncommon.
+- Most students clustered within mid-range total score values, with fewer students at performance extremes.
+
+**Why It Matters**
+These findings help illustrate how background and preparation-related factors are associated with academic performance. Such insights can support targeted academic interventions, resource allocation, and evaluation of preparation programs.
+
+**Tools: SQL (MySQL)**
+**Focus: Aggregation, comparative analysis, Descriptive statistics**
+
 ---
 
 ## 🛠️ Skills
